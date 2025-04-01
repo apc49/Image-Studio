@@ -1,0 +1,16 @@
+==== AWDigitalworld ImageAnalyzer Code Validation ====
+STEP 1: Running black (autoformatter)...
+'black' is not recognized as an internal or external command,
+operable program or batch file.
+
+
+STEP 2: Running flake8 (style + errors)...
+'flake8' is not recognized as an internal or external command,
+operable program or batch file.
+
+
+STEP 3: Running pylint (deep analysis)...
+'pylint' is not recognized as an internal or external command,
+operable program or batch file.
+
+
