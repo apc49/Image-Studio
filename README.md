@@ -99,7 +99,20 @@ This project is actively developed, and contributors are welcome. If you would l
 ## App Structure
 
 The current application structure is as follows:
-
+ImageAnalyzer/ 
+├── main.py # Main application code 
+├── requirements.txt # Python dependencies 
+├── assets/ # Image files, icons, etc. 
+│ └── logo.png 
+│  ── splash_image.jpg  
+├── db/ # SQLite database files 
+│ └── image_analyzer.db 
+├── src/ # Source code directory
+├── gallery.py # Gallery management code
+├── analysis.py # Image analysis code 
+│ └── ai.py # AI model handling (GPT, DALL·E, etc.)
+├── README.md # Project readme 
+└── LICENSE # Project license
 
 ## License
 
